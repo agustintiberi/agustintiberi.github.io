@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
@@ -104,10 +104,11 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
-    {% else %}
-      {% assign postlist = site.posts %}
-    {% endif %}
+  {% assign postlist = paginator.posts | where_exp: "p", "p.categories != 'tech'" %}
+{% else %}
+  {% assign postlist = site.posts | where_exp: "p", "p.categories != 'tech'" %}
+{% endif %}
+
 
     {% for post in postlist %}
 

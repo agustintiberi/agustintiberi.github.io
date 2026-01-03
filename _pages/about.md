@@ -2,18 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile-1.png
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Santiago del Estero, Argentina</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +25,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an ecologist and PhD candidate in Biological Sciences, with strong interest in geospatial data science, satellite remote sensing, and open-source tools. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### 🛰️ Geospatial data science to understand our planet 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work with satellite imagery, geocomputation, and spatial analysis applied to continental aquatic systems. My work focuses on transforming environmental data into insight, combining scientific rigor with reproducible and open workflows.
+You can explore my approach, tools, and projects in the portafolio and blog sections. 
+
+#### 💡 Beyond code
+When I am not coding or working with data, I enjoy:
+
+- Reading philosophy, art, and history
+- Exploring world literature and fiction
+- Continuous learning, sharing ideas, and growing through collaboration
+
+#### 📭 Let's connect
+Feel free to reach out or follow my work through the links below.
+
+#### 🇪🇸 Un mensaje para los visitantes hispanohablantes
+Muchas gracias por tu interés en mi trabajo 🙂
+Por el momento, la mayor parte del contenido de este sitio está en inglés. En el blog, podés identificar las entras en español mediante la etiqueta ES. 
