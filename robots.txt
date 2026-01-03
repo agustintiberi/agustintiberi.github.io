@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://agustintiberi.github.io/sitemap.xml
+Sitemap: https://agustintiberi.com/sitemap.xml
