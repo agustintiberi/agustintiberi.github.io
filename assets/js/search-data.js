@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Welcome! the full deailted CV pdf is only available under request :)",
+          description: "Welcome! the full deailted CV pdf is only available under request :) (CV completo disponible bajo solicitud)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Why this blog exists",
         
-        description: "Thoughts on geospatial data, science, and slow understanding",
+        description: "This blog is a place to think slowly",
         section: "Posts",
         handler: () => {
           
