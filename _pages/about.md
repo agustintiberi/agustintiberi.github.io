@@ -30,13 +30,13 @@ I am an ecologist and PhD candidate in Biological Sciences, with strong interest
 #### 🛰️ Geospatial data science to understand our planet 
 
 I work with satellite imagery, geocomputation, and spatial analysis applied to continental aquatic systems. My work focuses on transforming environmental data into insight, combining scientific rigor with reproducible and open workflows.
-You can explore my approach, tools, and projects in the portafolio and blog sections. 
+You can explore my approach, tools, and projects in the portfolio and blog sections. 
 
 #### 💡 Beyond code
 When I am not coding or working with data, I enjoy:
 
 - Reading philosophy, art, and history
-- Exploring world literature and fiction
+- Explore the world literature and fiction
 - Continuous learning, sharing ideas, and growing through collaboration
 
 #### 📭 Let's connect
