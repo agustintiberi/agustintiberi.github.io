@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Stats from my GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "Welcome! the full deailted CV pdf is only available under request :) (CV completo disponible bajo solicitud)",
