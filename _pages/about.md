@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>
-    <a href="https://bicyt.conicet.gov.ar/fichas/p/agustin-eduardo-tiberi" target="_blank" rel="noopener">
+    <a href="https://siglabfcfunse.wixsite.com/siglab/inicio" target="_blank" rel="noopener">
       SIGLAB, Universidad Nacional de Santiago del Estero, Argentina.
      </a>
     </p>
