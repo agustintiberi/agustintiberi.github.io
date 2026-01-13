@@ -9,7 +9,11 @@ profile:
   image: profile-1.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Santiago del Estero, Argentina</p>
+    <p>
+    <a href="https://bicyt.conicet.gov.ar/fichas/p/agustin-eduardo-tiberi" target="_blank" rel="noopener">
+      SIGLAB, Universidad Nacional de Santiago del Estero, Argentina.
+     </a>
+    </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
