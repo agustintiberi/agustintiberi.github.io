@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-no-ai",
+          title: "no ai",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/noai/";
+          },
         },{id: "post-ver-qué-sucede",
         
           title: "Ver qué sucede",
