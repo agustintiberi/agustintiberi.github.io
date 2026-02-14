@@ -48,4 +48,4 @@ Feel free to reach out or follow my work through the links below.
 
 #### 🇪🇸 Un mensaje para los visitantes hispanohablantes
 Muchas gracias por tu interés en mi trabajo 🙂
-Por el momento, la mayor parte del contenido de este sitio está en inglés. En el blog, podés identificar las entras en español mediante la etiqueta ES. 
+Por el momento, la mayor parte del contenido de este sitio está en inglés. En el blog, podés identificar las entradas en español mediante la etiqueta ES. 
