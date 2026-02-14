@@ -46,6 +46,9 @@ When I am not coding or working with data, I enjoy:
 #### 📭 Let's connect
 Feel free to reach out or follow my work through the links below.
 
+#### 🤖 Robot-free content! 
+Check out the [NO AI disclaimer](https://agustintiberi.com/noai/).
+
 #### 🇪🇸 Un mensaje para los visitantes hispanohablantes
 Muchas gracias por tu interés en mi trabajo 🙂
 Por el momento, la mayor parte del contenido de este sitio está en inglés. En el blog, podés identificar las entradas en español mediante la etiqueta ES. 
