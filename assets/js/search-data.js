@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-why-this-blog-exists",
+        },{id: "post-ver-qué-sucede",
+        
+          title: "Ver qué sucede",
+        
+        description: "This blog is a place to think slowly",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/es/life/2025/01/03/doing-things.html";
+          
+        },
+      },{id: "post-why-this-blog-exists",
         
           title: "Why this blog exists",
         
