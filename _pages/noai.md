@@ -38,7 +38,7 @@ No importa cuan rápido la IA arroje contenido regurgitado, _no puede_ replicar 
 
 **Esta declaración remueve cualquier duda si el contenido que estás o has consumido fue creado por otro ser humano. Ahora vos también puedes disfrutar con confianza de la conexión humana.**
 
-Para el contenido de este sitio web, la IA se utilizó exclusivamente como fuente información para investigación, aprendizaje y desarrollo, lo cual constituye un uso adecuado de la IA generativa.
+Para el contenido de este sitio web, la IA se utilizó exclusivamente como fuente información para investigación, aprendizaje y desarrollo, lo cual constituye un uso adecuado de la IA generativa. Código, texto, figuras e ideas detrás de este sitio web provienen de una mente humana. 
 
 Texto base para esta declaración cortesía de [no-ai.icon.com](https://no-ai-icon.com/). Figura NO AI cortesía de [madebyhuman.work](https://madebyhuman.work/).
 
