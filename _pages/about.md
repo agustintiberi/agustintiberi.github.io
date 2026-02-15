@@ -46,8 +46,8 @@ When I am not coding or working with data, I enjoy:
 #### 📭 Let's connect
 Feel free to reach out or follow my work through the links below.
 
-#### 🤖 Robot-free content! 
-Check out the [NO AI disclaimer](https://agustintiberi.com/noai/).
+#### 🤖 Human-first content! 
+Check out the [AI disclaimer](https://agustintiberi.com/noai/).
 
 #### 🇪🇸 Un mensaje para los visitantes hispanohablantes
 Muchas gracias por tu interés en mi trabajo 🙂
